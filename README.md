@@ -14,10 +14,10 @@ Silakan isi data anggota di bawah ini:
 
 | Nama | NIM | Peran |
 |---|---|---|
-| [Nama Ketua] | [NIM Ketua] | Ketua Kelompok |
-| [Anggota 1] | [NIM Anggota 1] | Developer |
-| [Anggota 2] | [NIM Anggota 2] | Developer |
-| [Anggota 3] | [NIM Anggota 3] | Documentation |
+| Jafar Siddik Aulia Rahman | 301220005 | Ketua Kelompok |
+| Rahman Wildan Sudrajat | 301220070 | Anggota 1 |
+| Septian Cikal | 301220049 | Anggota 2 |
+| Hafidz Muhammad | 301220038 | Anggota 3 |
 
 ## Struktur Project
 - `index.html`: Halaman utama yang berisi daftar anggota.
@@ -30,7 +30,7 @@ Silakan isi data anggota di bawah ini:
 ## Cara Berkontribusi
 1.  **Clone repository** ini ke komputer lokal Anda.
     ```bash
-    git clone https://github.com/username/TugasBesar-PraktikumGit-Kelompok.git
+    git clone https://github.com/JafarSiddik/TugasBesar-PraktikumGit-Kelompok.git
     ```
 2.  **Buat branch baru** dengan format `kontribusi-[NIM]`.
     ```bash
